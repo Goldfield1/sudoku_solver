@@ -1,2 +1,2 @@
 # sudoku_solver
-Sodoku solver with pythob
+Basic sudoku solver with python, using PyGame for visualization
